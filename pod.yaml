@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: kannanbe50/newimage:latest
+          image: kannanbe50/newimage1:latest
           imagePullPolicy: Always
